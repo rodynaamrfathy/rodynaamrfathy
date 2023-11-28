@@ -5,4 +5,4 @@
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/rodyna-amr-22027012cs/)
 * [Twitter](https://twitter.com/rodynaamrfathy)
-* [Email](mailto:messagerodynamr@icloud.com)
+* [Email](mailto:rodynamr@icloud.com)
