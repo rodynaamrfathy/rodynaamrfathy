@@ -9,6 +9,3 @@
 * [Email](mailto:rodynamr@icloud.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodynaamrfathy&layout=compact)](https://github.com/rodynaamrfathy/github-readme-stats)
-
-
-![image] (https://media.licdn.com/dms/image/D4D16AQHVX0qZGoSCPQ/profile-displaybackgroundimage-shrink_350_1400/0/1699961377554e=1706745600&v=beta&t=YpdhpTqFY6wNLBXS4UerEdr2AcGjXLu_pWjgp-W574w.png)
