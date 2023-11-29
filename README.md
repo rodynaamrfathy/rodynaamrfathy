@@ -7,3 +7,5 @@
 * [LinkedIn](https://www.linkedin.com/in/rodyna-amr-22027012cs/)
 * [Twitter](https://twitter.com/rodynaamrfathy)
 * [Email](mailto:rodynamr@icloud.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodynaamrfathy&layout=compact)](https://github.com/rodynaamrfathy/github-readme-stats)
