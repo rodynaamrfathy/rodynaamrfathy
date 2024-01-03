@@ -3,7 +3,11 @@
 ### ~ 👩🏼‍💻 I am a Software Engineering student at ALX.
 ### ~ 🎓 Studying computer science at Cairo University.
 
-# Contact 
+# Contact
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rodyna-amr-22027012cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rodyna amr" height="30" width="40" /></a>
+</p>
 * [LinkedIn](https://www.linkedin.com/in/rodyna-amr-22027012cs/)
 * [Twitter](https://twitter.com/rodynaamrfathy)
 * [Email](mailto:rodynamr@icloud.com)
