@@ -10,17 +10,19 @@
 
 
 # Contact
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: blue; font-family: Arial;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rodyna-amr-22027012cs/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rodyna amr" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/rodynaamrfathy" target="_blank">
+  <a href="https://twitter.com/rodynaamrfathy" target="_blank" style="color: green;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="mailto:rodynamr@icloud.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mailto.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
+ <a href="mailto:rodynamr@icloud.com">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/65px/mail.png" alt="Email" width="30" height="30" />
+</a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodynaamrfathy&layout=compact)](https://github.com/rodynaamrfathy/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodynaamrfathy&" alt="rodynaamrfathy" /></p>
+
